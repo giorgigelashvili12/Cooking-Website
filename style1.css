@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #A8FBD6;
+    padding: 15px 15px 15px 15px;
+}
+
+header a {
+    background-color: #49E395;
+    color: black;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Inter';
+}
+
+header h1 {
+    font-family: 'Lilita One', cursive;
+}
+
+
+img {
+    margin-top: 15px;
+    margin-left: 20px;
+    border: solid #49E395 10px;
+}
+
+p {
+    padding-left: 25px;
+    padding-bottom: 5px;
+}
+
+.p {
+    padding-left: 0px;
+
+}
+
+a {
+    border-radius: 20px;
+}
+
+.img1 {
+    border: solid #9D722E 15px;
+}
+
+.img2 {
+    width: 360px;
+    border: solid #FA8A50 15px;
+}
+
+.img3 {
+    width: 330px;
+    border: solid #729492 15px;
+}
+
+.img4 {
+    border: solid #FAB443 15px;
+}
+
+.img5 {
+    border: solid #FAB46B 15px;
+}
+
+.img6 {
+    border: solid #AD1D3E 15px;
+}
